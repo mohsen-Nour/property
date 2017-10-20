@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [21/Oct/2017:00:43:34 +0330] "GET /property/hello HTTP/1.1" 200 240 http-bio-8080-exec-1 763
+0:0:0:0:0:0:0:1 - - [21/Oct/2017:00:43:34 +0330] "GET /property/resources/css/style.css;jsessionid=6DFFE5F1E10164792864F60DB8E1E392 HTTP/1.1" 404 1103 http-bio-8080-exec-2 4
+0:0:0:0:0:0:0:1 - - [21/Oct/2017:00:43:34 +0330] "GET /property/resources/css/style.css;jsessionid=6DFFE5F1E10164792864F60DB8E1E392 HTTP/1.1" 404 1103 http-bio-8080-exec-3 1
+0:0:0:0:0:0:0:1 - - [21/Oct/2017:00:43:39 +0330] "GET /property/hello HTTP/1.1" 200 196 http-bio-8080-exec-4 2
+0:0:0:0:0:0:0:1 - - [21/Oct/2017:00:43:39 +0330] "GET /property/resources/css/style.css HTTP/1.1" 404 1015 http-bio-8080-exec-5 1
+0:0:0:0:0:0:0:1 - - [21/Oct/2017:00:43:39 +0330] "GET /property/resources/css/style.css HTTP/1.1" 404 1015 http-bio-8080-exec-6 2
